@@ -61,7 +61,7 @@ body#prehome {
 }
 
 #btnRegistar, #btnLogin {
-  margin: 0 0 0 450px;
+  margin-left: 60%;
 }
 
 #register:hover {
